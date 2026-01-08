@@ -8,6 +8,14 @@
 
 <div align="center">A forum board built with React, Express, Node and MongoDB</div>
 
+## What I do:
+* Set up the router
+* Set up context and local storage.
+* Implement the backend part of Post function.
+* Implement the Navigate Bar (both frontend and backend).
+* Add token to HTTP request.
+* Implement auto-login.
+
 ![](./Home.png)
 
 ![](./Kobe_Bryant.png)
